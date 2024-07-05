@@ -1,4 +1,4 @@
-# SwipeSweepSupport
+# SwipeSweep Support
 
 SwipeSweep is an easy-to-use photo cleaner app designed to tidy up your camera roll.
 
