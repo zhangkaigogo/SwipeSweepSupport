@@ -1,6 +1,6 @@
-# SwipeSweep Support
+# Photo Cleaner@ Support
 
-SwipeSweep is an easy-to-use photo cleaner app designed to tidy up your camera roll.
+Photo Cleaner@ is an easy-to-use photo cleaner app designed to tidy up your camera roll.
 
 Simply swipe left to delete a photo and swipe right to keep it. Organizing your camera roll has never been so easy and enjoyable.
 
