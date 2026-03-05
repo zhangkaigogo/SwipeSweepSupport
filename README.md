@@ -1,6 +1,6 @@
-# CleanerSwipe Support
+# Photo Cleanup Guru Support
 
-CleanerSwipe is an easy-to-use photo cleaner app designed to tidy up your camera roll.
+Photo Cleanup Guru is an easy-to-use photo cleaner app designed to tidy up your camera roll.
 
 Simply swipe left to delete a photo and swipe right to keep it. Organizing your camera roll has never been so easy and enjoyable.
 
